@@ -81,8 +81,8 @@ inspect_types()
 
 ### :card_index_dividers: Folder descriptions
 
-- **key-variables**: This is a folder describing key varaibles of the first two waves.** 
-- **documentation**: This is a document provided by the ABS regarding the survey/questionaire.** 
+- **key-variables**: This is a folder describing key varaibles of the first two waves.
+- **documentation**: This is a document provided by the ABS regarding the survey/questionaire.
 - **rubric**: This is a document that provides the rubric for the event 
 
 
