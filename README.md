@@ -24,9 +24,9 @@ The ABS has three main objectives, which we repeat exactly from their webpage to
 
 ## Question of Interest 1: ABS, Waves 1 and Waves 2
 
-Given one of the motivating questions of interest, build a predictive model for at least one wave to help the ABS' objective. Be sure to conduct an exploratory data analysis, choose a model that is appropriate for the data at hand, and explain any assumptions that you make. 
+Given one of the motivating questions of interest, build a predictive model for at least one wave to help the ABS' objective. Be sure to conduct an exploratory data analysis, choose a model that is appropriate for the data at hand, and explain any assumptions that you make. In building your model, be sure to pay attention to the priority variables in the documentation folders. 
 
-Suggestions regarding talking points:
+Suggestions regarding talking points and plans of work:
 
 0. Choose a group leader, especially that might have experience with this type of data. 
 1. Perform an exploratory data analysis such that you understand what type of data you have. Is it continuous, discrete, categorical, or mixed? Given the data, what types of models are appropriate? 
