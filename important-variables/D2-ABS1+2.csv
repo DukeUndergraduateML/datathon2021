@@ -1,0 +1,29 @@
+,,,ABSWave1,ABSWave1,ABSWave2,ABSWave2
+Type,Index,Priority,ABS1_Coding_name,ABS1_Question_Title,ABS2_Coding_name,ABS2_Question_Title
+X,1,0,se002,Gender,se2,Gender
+X,2,0,se004,Martial Status,se4,Marital Status
+X,3,0,se005,Education,se5,Education
+X,4,0,se009,Month Household income,se9,Monthly Household income
+X,5,0,se003a,Age ,se3a,Age
+X,6,1,country,Country,country,Country
+Y,1,0,q007,The courts,q8,The courts
+Y,2,0,q008,National Government,q9,National Government
+Y,3,0,q009,Civil Service,q12,Civil Service 
+Y,4,0,q010,Military,q13,Military 
+Y,5,1,q006,What do you think the economic situation of your family will be a few years from now?,q6,What do you think the economic situation of your family will be a few years from now? 
+Y,6,1,q098,"On the whole, how satisfied or dissatisfied are you with the way democracy works in [Country]",q93,"On the whole, how satisfied or dissatisfied are you with the way democracy works in [Country]. "
+Y,7,1,q128,You can generally trust the people who run our government to do what is right,q130,You can generally trust the people who run our government to do what is right.
+Y,8,2,q005,How would you compare the current economic condition of your family with what it was a few years ago?,q5,How would you compare the current economic condition of your family with what it was a few years ago? 
+Y,9,2,q027,Have you voted in the last election,q38,Have you voted in the last election 
+Y,10,2,q028,Attend campaign meeting or rally,q40,Attend campaign meeting or rally 
+Y,11,2,q105,People are free to speak what they think without fear,q108,Everyone is treated equally by the government.
+Y,12,2,q106,Everyone is treated equally by the government,q110,People are free to speak what they think without fear.
+Y,13,2,q121,We should get rid of parliament and elections and have a strong leader decide things.,q124,We should get rid of parliament and elections and have a strong leader decide things
+Y,14,2,q123,The military should come in to govern the country,q126,The army (military) should come in to govern the country.
+Y,15,2,q127,Sometimes politics and government seems so complicated that a person like me can't really understand what is going on,q128,Sometimes politics and government seems so complicated that a person like me can't really understand what is going on.
+Y,16,3,na,NIL,q32,"Generally speaking, how safe is living in this city, town, village "
+Y,17,3,na,NIL,q48,How would you describe the present political situation in our country? 
+Y,18,3,na,NIL,q49,How interested would you say you are in politics? 
+Y,19,3,na,NIL,q94,In your opinion how much of a democracy is [Country Name] ? 
+Y,20,3,na,NIL,q103,People have the power to change a government they don't like.
+Y,21,3,na,NIL,q104,Our current courts always punish the guilty even if they are high-ranking officials.

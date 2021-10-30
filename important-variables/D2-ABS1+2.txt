@@ -1,0 +1,20 @@
+This file describes how to interpret ABS1+2.csv.  
+
+There are two lines of headers.
+- The first header provides an indication regarding whether the columns refer to the ABS, Wave 1 or Wave 2. 
+- The second header provides column information that we explain below. 
+
+Type: X is an explanatory variable. Y is a predictor variable.
+
+Index: This provides an index within the covariate or response variable. For example X_1, X_2, etc. 
+
+Priority: This column gives the order of priority to include the variable in the model based upon the expertise of prior experts. For example, variables with priority 0 are the most important, variables with priority 1 are the next important, and so on. 
+
+ABS1_Coding_name: This provides the corresponding variable name in ABS wave 1 data set.
+
+ABS1_Question_Title: This provides the corresponding covariate/question that corresponds to the ABS1_Coding_name
+
+ABS2_Coding_name: This provides the corresponding variable name in ABS wave 2 data set.
+
+ABS2_Question_Title: This provides the corresponding covariate/question that corresponds to the ABS2_Coding_name
+
