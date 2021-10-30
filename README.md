@@ -1,4 +1,4 @@
-# datathon2021
+# datathon2021: Asian Barometer Survey (ABS)
 
 This repository contains information for Datathon2021, which is on the Asian Barometer Survey (ABS), where extensive information can be found here at 
 http://asianbarometer.org/
