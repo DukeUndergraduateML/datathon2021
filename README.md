@@ -7,35 +7,34 @@ http://asianbarometer.org/
 
 Welcome to Datathon 2021! 
 
-1. The dataset can be found at dukeml.org/dataset and the password to the file will be provided at 10:30 AM ET on Saturday, November 6, 2021 via email and Slack. Please download the dataset beforehand to prevent potential network issues on Duke’s wifi!
+1. The dataset can be found at dukeml.org/dataset and the password to the encrypted file will be provided at 10:30 AM ET on Saturday, November 6, 2021 via email and Slack. Please download the dataset beforehand to prevent potential network issues on Duke’s wifi!
 
-2. Submissions will be due at **10:30 AM ET on Sunday, November 7, 2021** at Microsoft CMT (https://cmt3.research.microsoft.com/User/Login), and projects will be judged on the rubric that is found in the documentation folder. Specifically, we are looking for high quality submissions that answer the challenge question provided below, which are presented in a clear, statistical correct and sound manner (with support via visualizations and citations from books or literature). 
+2. Submissions will be due at **10:30 AM ET on Sunday, November 7, 2021** at Microsoft CMT (https://cmt3.research.microsoft.com/User/Login), and projects will be judged on the rubric that is found in the documentation folder. Specifically, we are looking for high quality submissions that answer the challenge question provided below, which are presented in a clear, statistically sound manner (with support via visualizations and citations from books or literature). 
 
-3. In your submission, you have up to **four pages** to present the most important findings to the reviewers, with an optional two page appendix. Your submissions will be reviewed by at least two reviewers of either faculty/graduate students who will assess the quality of your work through peer review and provide constructive comments back to you. You must submit reproducible code in order for your submission to be considered. Please **submit just one zip file to the CMT webpage, and have one submission per team** (up to four students). 
+3. In your submission, you have up to **four pages** to present the most important findings to the reviewers, with an optional two-page appendix. Your submissions will be reviewed by at least two reviewers of either faculty/graduate students who will assess the quality of your work through peer review and provide constructive comments back to you. You must **submit reproducible code** in order for your submission to be considered. Please **submit just one zip file to the CMT webpage, and have one submission per team** (up to four students). 
 
 4. Top submissions will receive recognition from the Duke Undergraduate Machine Learning Board as well as prizes. These will be decided upon by the reviewers as well as area chairs.
 
-5. You are welcome to get help from mentors at the event and ask questions of the organizers. You are encouraged to talk to other groups as well. The overall goal of this event is to learn how to analyze data in a fun setting and hopefully make friends. There are workshops that will be held in case you are new to statistical machine learning, so please check these out. 
+5. You are welcome to get help from mentors at the event and ask questions of the organizers. You are encouraged to talk to other groups as well. The overall goal of this event is to learn how to analyze data in a fun and friendly setting. There are workshops that will be held in case you are new to statistical machine learning, so please check these out. 
 
-Finally, the event is hybrid this year in case you don't feel comfortable being around others. If you do come to the event, please remember to follow all Duke COVID-19 protocols. We have reserved space around campus so that students can work in small groups as well. 
+Finally, the event is hybrid this year in case you don't feel comfortable being around others. If you do come to the event in-person, please remember to follow all Duke COVID-19 protocols. We have reserved space around campus so that students can work in small groups as well. 
 
 ## Components of Submission
 
-Teams must write a report that describes the steps taken to answer their proposed question/prompt. There is no set format for how the report should be written, but example sections of the report can include, but are not limited to, the following:
+Teams must write a report that describes the steps taken to answer their proposed question/prompt. There is no set format for how the report should be written. Example sections of the report can include, but are not limited to, the following:
 
 1. Introduction: What question are you answering with the data, and why is it important?
-2. Prior Work/Literature Review: What is the current literature in this area in a few sentences regarding references that you're utilizing. It's important to cite any work that you are using if it's not your own proposal as this is best practice. 
-3. EDA: How did your EDA help motivate your proposed methods? (This could be put in the appendix and be referenced in the main document). 
-4. Proposed Methodology: What are the main method(s) that you are using and why? Be sure to choose methods that are appropriate for the data. State any assumptions and why they are valid. 
+2. Prior Work/Literature Review: What is the current literature in this area in a few sentences regarding references that you're utilizing. It's important to **cite any work** that you are using if it's not your own proposal as this is best practice. 
+3. EDA: How did your EDA motivate your proposed methods? (This could be put in the appendix and be referenced in the main document). 
+4. Proposed Methodology: What are the main method(s) that you are using and why? Be sure to choose methods that are statistically appropriate for the data. State any assumptions and why they are valid. 
 5. Analysis: Analyze your data and provide evaluations. What do you find (include visualization if helpful). 
 6. Conclusion: What can you conclude from your analysis and how is this useful regarding the motivating question. 
-work?
 
-At minimum, the report must include the question being answered, findings and visualizations, and a conclusion. Your report may not be longer than 4 pages in length. You may have an optional appendix (maximum 2 pages), however, this may not be read by the reviewers. From the report, it should be clear as to how you approached your analysis. **Do not include any identifying information about the members of your group in the submission**. Please submit your written report as a .pdf document.
+At minimum, the report must include the research question(s), findings, visualizations, and conclusion. Your report may not be longer than 4 pages in length. You may have an optional appendix (maximum 2 pages), however, this may not be read by the reviewers. From the report, it should be clear as to how you approached your analysis. **Do not include any identifying information about the members of your group in the submission**. Please submit your written report as a .pdf document.
 
 ## What is the mission of the ABS?
 
-The ABS has three main objectives, which we repeat exactly from their webpage to help student understand their mission.
+The ABS has three main objectives, which we have cited below to help student understand their mission.
 
 1. ``To generate a region-wide base of scientifically reliable and comparable data."
 
@@ -64,6 +63,9 @@ Suggestions regarding talking points and plans of work:
 3. Choose simple models before overly complex models (and make sure that these models are appropriate for the data). Be sure to account for missingness of any data in a statistically sound way. 
 4. What conclusions and guidance can you provide to the ABS for future guidance? 
 5. Be sure to include your code in your report. 
+
+TODO: 3 sample questions
+
 
 Remark: If you can build a predictive model across both waves for all countries, this would be a top-notch project! 
 
