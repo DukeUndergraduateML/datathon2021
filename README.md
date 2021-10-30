@@ -37,6 +37,18 @@ Suggestions regarding talking points and plans of work:
 
 Remark: If you can build a predictive model across both waves for all countries, this would be a top-notch project! 
 
+## Getting started in R 
+
+The code below illustrates how to load in the wave 1 dataset from Thailand using R.
+
+```
+data <- read.spss("data/Wave.1_Data/Thailand/thailand v4.2.sav", 
+                  to.data.frame=TRUE)
+attach(data)
+data %>%
+inspect_types()
+```
+
 ### :card_index_dividers: Folder descriptions
 
 - **key-variables: This is a folder describing key varaibles of the first two waves.** 
