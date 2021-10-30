@@ -35,6 +35,8 @@ Suggestions regarding talking points and plans of work:
 4. What conclusions and guidance can you provide to the ABS for future guidance? 
 5. Be sure to include your code in your report. 
 
+Remark: If you can build a predictive model across both waves for all countries, this would be a top-notch project! 
+
 ### :card_index_dividers: Folder descriptions
 
 - **key-variables: This is a folder describing key varaibles of the first two waves.** 
