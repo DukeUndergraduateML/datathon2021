@@ -23,12 +23,12 @@ Finally, the event is hybrid this year in case you don't feel comfortable being 
 
 Teams must write a report that describes the steps taken to answer their proposed question/prompt. There is no set format for how the report should be written, but example sections of the report can include, but are not limited to, the following:
 
-● Introduction: What question are you answering with the data, and why is it important?
-● Prior Work/Literature Review: What is the current literature in this area in a few sentences regarding references that you're utilizing. It's important to cite any work that you are using if it's not your own proposal as this is best practice. 
-● EDA: How did your EDA help motivate your proposed methods? (This could be put in the appendix and be referenced in the main document). 
-● Proposed Methodology: What are the main method(s) that you are using and why? Be sure to choose methods that are appropriate for the data. State any assumptions and why they are valid. 
-● Analysis: Analyze your data and provide evaluations. What do you find (include visualization if helpful). 
-● Conclusion: What can you conclude from your analysis and how is this useful regarding the motivating question. 
+1. Introduction: What question are you answering with the data, and why is it important?
+2. Prior Work/Literature Review: What is the current literature in this area in a few sentences regarding references that you're utilizing. It's important to cite any work that you are using if it's not your own proposal as this is best practice. 
+3. EDA: How did your EDA help motivate your proposed methods? (This could be put in the appendix and be referenced in the main document). 
+4. Proposed Methodology: What are the main method(s) that you are using and why? Be sure to choose methods that are appropriate for the data. State any assumptions and why they are valid. 
+5. Analysis: Analyze your data and provide evaluations. What do you find (include visualization if helpful). 
+6. Conclusion: What can you conclude from your analysis and how is this useful regarding the motivating question. 
 work?
 
 At minimum, the report must include the question being answered, findings and visualizations, and a conclusion. Your report may not be longer than 4 pages in length. You may have an optional appendix (maximum 2 pages), however, this may not be read by the reviewers. From the report, it should be clear as to how you approached your analysis. Do not include any identifying information about the members of your group in the submission. Please submit your written report as a .pdf document.
