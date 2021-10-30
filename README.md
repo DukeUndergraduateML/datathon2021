@@ -24,7 +24,7 @@ The ABS has three main objectives, which we repeat exactly from their webpage to
 
 ### :card_index_dividers: Folder descriptions
 
-- **key-variables/: This is a folder describing key varaibles of the first two waves.** 
+- **key-variables: This is a folder describing key varaibles of the first two waves.** 
 - **documentation: This is a document provided by the ABS regarding the survey/questionaire.** 
 - **XXX** 
 - **XXX** 
