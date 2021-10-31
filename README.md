@@ -92,7 +92,7 @@ df.head(10)
 
 ### :card_index_dividers: Folder descriptions
 
-- **key-variables**: This is a folder describing key varaibles of the first two waves.
+- **key-variables**: This is a folder describing key variables of the first two waves.
 - **documentation**: This is a document provided by the ABS regarding the survey/questionaire.
 - **rubric**: This is a document that provides the rubric regarding how reviewers will evaluate your submissions, which will be double-blind. 
 
