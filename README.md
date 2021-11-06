@@ -7,7 +7,7 @@ http://asianbarometer.org/
 
 Welcome to Datathon 2021! 
 
-1. The dataset can be found at dukeml.org/dataset and the password to the encrypted file will be provided at 10:30 AM ET on Saturday, November 6, 2021 via email and Slack. Please download the dataset beforehand to prevent potential network issues on Duke’s wifi!
+1. The dataset can be found at dukeml.org/dataset (https://dukeml.org/dataset/dataset2021.zip) and the password to the encrypted file will be provided at 10:30 AM ET on Saturday, November 6, 2021 via email and Slack. Please download the dataset beforehand to prevent potential network issues on Duke’s wifi!
 
 2. Submissions will be due at **10:30 AM ET on Sunday, November 7, 2021** at Microsoft CMT (https://cmt3.research.microsoft.com/User/Login), and projects will be judged on the rubric that is found in the documentation folder. Specifically, we are looking for high quality submissions that answer the challenge question provided below, which are presented in a clear, statistically sound manner (with support via visualizations and citations from books or literature). 
 
